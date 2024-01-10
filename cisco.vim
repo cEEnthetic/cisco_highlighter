@@ -1,5 +1,5 @@
 " copy this line into init.vim:
-" autocmd BufEnter *.cisco source ~/.config/nvim/cisco.vim
+" autocmd BufEnter *.cisco source [path to this file]
 set magic
 " the cisco cli is case insensitive 
 syntax case ignore 
